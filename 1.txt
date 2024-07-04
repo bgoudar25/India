@@ -4,4 +4,8 @@ Hi Thise is kine 2
 Hi This is line 3
 This is line 4
 THis is line 5
+<<<<<<< HEAD
 Yhis is line 7
+=======
+THis is line 6
+>>>>>>> Dev
